@@ -143,3 +143,9 @@ body {
 		font-size: 0.8rem;
 	}
 }
+
+@media screen and (min-width: 800px) {
+	.clickable {
+		font-size: 0.8rem;
+	}
+}
